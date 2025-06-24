@@ -2,11 +2,17 @@ import { Heading } from './components/Heading';
 
 import './styles/theme.css';
 import './styles/global.css';
+import { TimerIcon } from 'lucide-react';
 
 export function App() {
   return (
     <section>
-      <Heading />
+      <Heading>
+        History
+        <button>
+          <TimerIcon />
+        </button>
+      </Heading>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta minus,
         totam nihil ducimus officia ad. Fugit laborum, facilis saepe laboriosam
