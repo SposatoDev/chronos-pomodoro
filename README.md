@@ -14,8 +14,6 @@ Desenvolvido para aumentar seu foco e produtividade com ciclos de estudo/trabalh
 
 🔗 **Acesse o projeto online:** [Chronos Pomodoro](https://sposatodev.github.io/chronos-pomodoro/)  
 
-![Screenshot da aplicação](./cfa7d7f2-b34e-499f-8f9c-607ab3c54e68.png)
-
 ---
 
 ## ✨ Funcionalidades
